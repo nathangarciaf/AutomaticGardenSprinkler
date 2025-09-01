@@ -30,4 +30,7 @@ doméstico com capacidade de escalabilidade.
 ## Circuito
 
 O circuito foi desenvolvido em uma placa perfurada para evitar a grande quantidade de jumpers interligando 
-os componentes 
+os componentes.
+
+<img width="817" height="700" alt="Captura de tela 2025-08-31 235547" src="https://github.com/user-attachments/assets/32e27338-9e1d-4409-a940-8ad3a069bf58" />
+
